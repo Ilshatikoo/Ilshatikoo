@@ -8,6 +8,7 @@
 ![Header](https://img.shields.io/badge/K6-090909?style=for-the-badge&logo=k6&logoColor=7D64FF)
 ![Header](https://img.shields.io/badge/mitmproxy-090909?style=for-the-badge&logoColor=f76935)
 ![Header](https://img.shields.io/badge/testit-090909?style=for-the-badge&logo=testit&logoColor=f76935)
+![Header](https://img.shields.io/badge/postgres-090909?style=for-the-badge&logo=postgres&logoColor=f76935)
 
 
 ## Обо мне
